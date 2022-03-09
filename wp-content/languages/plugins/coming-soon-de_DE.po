@@ -1,0 +1,196 @@
+# Translation of Plugins - WordPress Website Builder by SeedProd &#8211; Custom Themes, Landing Pages, Coming Soon Page, Maintenance Mode &amp; more&#8230; - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - WordPress Website Builder by SeedProd &#8211; Custom Themes, Landing Pages, Coming Soon Page, Maintenance Mode &amp; more&#8230; - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-22 13:47:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - WordPress Website Builder by SeedProd &#8211; Custom Themes, Landing Pages, Coming Soon Page, Maintenance Mode &amp; more&#8230; - Stable (latest release)\n"
+
+#: app/functions-utils.php:610
+msgid "Top Rated Products"
+msgstr "Bestbewertete Produkte"
+
+#: app/functions-utils.php:601
+msgid "Featured Products"
+msgstr "Hervorgehobe Produkte"
+
+#: app/functions-utils.php:592
+msgid "Best Selling Products"
+msgstr "Meistverkaufte Produkte"
+
+#: app/functions-utils.php:581
+msgid "Sale Products"
+msgstr "Produkte im Angebot"
+
+#: app/functions-utils.php:570
+msgid "Recent Products"
+msgstr "Neueste Produkte"
+
+#: app/functions-utils.php:533
+msgid "Checkout"
+msgstr "Zur Kasse"
+
+#: app/functions-utils.php:523 app/functions-utils.php:835
+msgid "Add To Cart"
+msgstr "Zum Warenkorb hinzufügen"
+
+#: app/functions-utils.php:367
+msgid "Accordion"
+msgstr "Akkordeon"
+
+#: app/settings.php:113
+msgid "Error Updating App Settings"
+msgstr "Fehler beim Aktualisieren der App-Einstellungen"
+
+#: app/settings.php:107
+msgid "App Settings Updated"
+msgstr "App-Einstellungen aktualisiert"
+
+#: app/routes.php:113 app/routes.php:114
+msgid "Request a Feature"
+msgstr "Feature anfordern"
+
+#: app/edit_with_seedprod.php:234
+msgid "Back to WordPress Editor"
+msgstr "Zurück zum WordPress-Editor"
+
+#: app/routes.php:123 app/routes.php:124
+msgid "Get Pro"
+msgstr "Hol dir die Pro-Version"
+
+#: app/routes.php:104 app/routes.php:105
+msgid "About Us"
+msgstr "Über uns"
+
+#: app/routes.php:95 app/routes.php:96
+msgid "Growth Tools"
+msgstr "Wachstumstools"
+
+#: app/settings.php:72
+msgid "Error Updating Settings"
+msgstr "Fehler beim Aktualisieren der Einstellungen"
+
+#: app/settings.php:67
+msgid "Settings Updated"
+msgstr "Einstellungen aktualisiert"
+
+#: app/functions-addons.php:190 app/functions-addons.php:243
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: app/functions-addons.php:147
+msgid "Could not activate addon. Please activate from the Plugins page."
+msgstr "Das Add-on konnte nicht aktiviert werden. Bitte aktiviere es über die Plugin-Seite."
+
+#: app/functions-addons.php:142
+msgid "Addon activated."
+msgstr "Add-on aktiviert."
+
+#: app/functions-addons.php:140
+msgid "Plugin activated."
+msgstr "Plugin aktiviert."
+
+#: app/functions-addons.php:111
+msgid "Could not deactivate the addon. Please deactivate from the Plugins page."
+msgstr "Das Add-on konnte nicht deaktiviert werden. Bitte deaktiviere es von der Plugin-Seite."
+
+#: app/lpage.php:950 app/theme-templates.php:806
+msgid "<br><br>Please enter a valid license key to access the themes. You can still proceed to create a page with the default theme.<br> <a class='seedprod_no_themes' href='?theme=0'>Click to continue &#8594;</a>"
+msgstr "<br><br>Bitte gebe einen gültigen Lizenzschlüssel ein, um auf die Themes zuzugreifen. Du kannst trotzdem fortfahren, eine Seite mit dem Standard-Theme zu erstellen.<br> <a class='seedprod_no_themes' href='?theme=0'>Klicke zum Fortfahren &#8594;</a>"
+
+#: app/license.php:145
+msgid "Invalid License Key."
+msgstr "Ungültiger Lizenzschlüssel."
+
+#. translators: 1. License name.
+#: app/license.php:140
+msgid "You currently have the <strong>%s</strong> license."
+msgstr "Du hast derzeit die <strong>%s</strong> Lizenz."
+
+#: app/functions-utils.php:203
+msgid "Giveaway"
+msgstr "Werbegeschenke"
+
+#: app/includes/skin.php:82 app/includes/skin53.php:82
+msgid "There was an error installing the addon. Please try again."
+msgstr "Es gab einen Fehler beim Installieren des Add-ons. Bitte erneut versuchen."
+
+#: app/functions-addons.php:185 app/functions-addons.php:238
+msgid "Active"
+msgstr "Aktiv"
+
+#: app/functions-addons.php:196 app/functions-addons.php:249
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+#: app/routes.php:77 app/routes.php:78
+msgid "Subscribers"
+msgstr "Abonnenten"
+
+#: app/routes.php:86 app/routes.php:87
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: app/class-seedprod-review.php:119
+msgid "I already did"
+msgstr "Habe ich bereits"
+
+#: app/class-seedprod-review.php:118
+msgid "Nope, maybe later"
+msgstr "Nein, vielleicht später"
+
+#: app/class-seedprod-review.php:117
+msgid "Ok, you deserve it"
+msgstr "Ok, du hast es verdient"
+
+#. translators: 1: wordpress.org coming-soon plugin review, 2: wordpress.org
+#. coming-soon plugin review
+#: app/bootstrap.php:388
+msgid "Please rate <strong>SeedProd</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the SeedProd team!"
+msgstr "Bitte bewerte <strong>SeedProd</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> auf <a href=\"%2$s\" target=\"_blank\">WordPress.org</a>, damit mehr Menschen auf uns aufmerksam werden. Vielen Dank vom SeedProd-Team!"
+
+#: app/functions-utils.php:514
+msgid "Custom HTML"
+msgstr "Eigener HTML-Code"
+
+#. Author of the plugin
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.seedprod.com"
+msgstr "https://www.seedprod.com"
+
+#: app/routes.php:67 app/routes.php:68 app/routes.php:133 app/routes.php:134
+msgid "Templates"
+msgstr "Vorlagen"
+
+#: app/functions-utils.php:145
+msgid "Text"
+msgstr "Text"
+
+#: app/functions-utils.php:133
+msgid "Headline"
+msgstr "Überschrift"
+
+#: app/class-seedprod-review.php:102
+msgid "Yes"
+msgstr "Ja"
+
+#: app/backwards/csp4-functions.php:10
+msgid "Please enter your settings."
+msgstr "Bitte mache deine Einstellungen."
+
+#: app/admin-bar-menu.php:51
+msgid "Maintenance Mode Active"
+msgstr "Wartungsmodus aktiv"
+
+#: app/admin-bar-menu.php:49
+msgid "Coming Soon Mode Active"
+msgstr "Coming-Soon-Modus aktiv"
